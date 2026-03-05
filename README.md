@@ -7,7 +7,7 @@
 
 Click the image below to launch the interactive NMDS ordination tool:
 
-[![NMDS App](images/nmds.png)]([https://biodiversitygenomics.shinyapps.io/nmds-app/](https://biodiversitygenomics.shinyapps.io/NMDS/))
+[![NMDS App](images/nmds.png)]((https://biodiversitygenomics.shinyapps.io/NMDS/))
 
 ## Background
 

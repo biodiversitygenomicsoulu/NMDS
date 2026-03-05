@@ -146,7 +146,7 @@ The app implements best practices for NMDS including multiple random starts, app
 | No matching samples | Check sample names in OTU columns vs. metadata first column |
 | NMDS fails to converge | Increase Random starts or Max iterations in settings |
 | Ellipses not showing | Groups need ≥3 samples to draw confidence ellipses |
-| File too large | Increase `shiny.maxRequestSize` in code or subset data |
+| File too large | Subset data, <200 MB |
 
 
 ## Maintainer
